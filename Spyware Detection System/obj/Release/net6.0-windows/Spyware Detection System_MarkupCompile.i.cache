@@ -1,0 +1,20 @@
+﻿Spyware Detection System
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\vs2019\project\csharp\Spyware Detection System\Spyware Detection System\obj\Release\net6.0-windows\
+Spyware_Detection_System
+none
+false
+TRACE;RELEASE;NET;NET6_0;NETCOREAPP
+D:\vs2019\project\csharp\Spyware Detection System\Spyware Detection System\App.xaml
+4-1625266654
+1882702876
+171769936423
+225-1418342436
+Views\Pages\DashboardPage.xaml;Views\Pages\DataPage.xaml;Views\Pages\SettingsPage.xaml;Views\Windows\MainWindow.xaml;
+
+True
+
